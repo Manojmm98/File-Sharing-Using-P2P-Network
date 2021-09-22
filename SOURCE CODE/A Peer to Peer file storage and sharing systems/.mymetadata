@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TIME EFFICIENT DISTRIBUTED FILE STORAGE AND SHARING USING P2P NETWORKS"
+  id="myeclipse.1218819033765"
+  context-root="/FileShare"
+  j2ee-spec="1.4"
+  archive="TIME EFFICIENT DISTRIBUTED FILE STORAGE AND SHARING USING P2P NETWORKS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
